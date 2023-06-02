@@ -1,0 +1,150 @@
+teamID,name,State
+ARI,Arizona Diamondbacks,AZ
+ANA,Anaheim Angels,CA
+CAL,California Angels,CA
+LAA,Los Angeles Angels,CA
+LAN,Los Angeles Dodgers,CA
+OAK,Oakland Athletics,CA
+SDN,San Diego Padres,CA
+SFN,San Francisco Giants,CA
+MON,Montreal Expos,QC
+TOR,Toronto Blue Jays,ON
+COL,Colorado Rockies,CO
+HAR,Hartford Dark Blues,CT
+HR1,Hartford Dark Blues,CT
+MID,Middletown Mansfields,CT
+NH1,New Haven Elm Citys,CT
+WIL,Wilmington Quicksteps,DE
+FLO,Florida Marlins,FL
+MIA,Miami Marlins,FL
+TBA,Tampa Bay Devil Rays,FL
+ATL,Atlanta Braves,GA
+CH1,Chicago White Stockings,IL
+CH2,Chicago White Stockings,IL
+CHA,Chicago White Sox,IL
+CHF,Chicago Chi-Feds,IL
+CHN,Chicago White Stockings,IL
+CHP,Chicago Pirates,IL
+CHU,Chicago/Pittsburgh (Union League),IL
+RC1,Rockford Forest Citys,IL
+FW1,Fort Wayne Kekiongas,IN
+IN1,Indianapolis Blues,IN
+IN2,Indianapolis Hoosiers,IN
+IN3,Indianapolis Hoosiers,IN
+IND,Indianapolis Hoosiers,IN
+KEO,Keokuk Westerns,IA
+LS1,Louisville Grays,KY
+LS2,Louisville Eclipse,KY
+LS3,Louisville Colonels,KY
+BAL,Baltimore Orioles,MD
+BL1,Baltimore Canaries,MD
+BL2,Baltimore Orioles,MD
+BL3,Baltimore Orioles,MD
+BL4,Baltimore Marylands,MD
+BLA,Baltimore Orioles,MD
+BLF,Baltimore Terrapins,MD
+BLN,Baltimore Orioles,MD
+BLU,Baltimore Monumentals,MD
+BOS,Boston Americans,MA
+BS1,Boston Red Stockings,MA
+BS2,Boston Reds,MA
+BSN,Boston Red Caps,MA
+BSP,Boston Reds,MA
+BSU,Boston Reds,MA
+WOR,Worcester Ruby Legs,MA
+DET,Detroit Tigers,MI
+DTN,Detroit Wolverines,MI
+MIN,Minnesota Twins,MN
+SPU,St. Paul White Caps,MN
+KC1,Kansas City Athletics,MO
+KC2,Kansas City Cowboys,MO
+KCA,Kansas City Royals,MO
+KCF,Kansas City Packers,MO
+KCN,Kansas City Cowboys,MO
+KCU,Kansas City Cowboys,MO
+SL1,St. Louis Red Stockings,MO
+SL2,St. Louis Brown Stockings,MO
+SL3,St. Louis Brown Stockings,MO
+SL4,St. Louis Brown Stockings,MO
+SL5,St. Louis Maroons,MO
+SLA,St. Louis Browns,MO
+SLF,St. Louis Terriers,MO
+SLN,St. Louis Browns,MO
+SLU,St. Louis Maroons,MO
+ELI,Elizabeth Resolutes,NJ
+NEW,Newark Pepper,NJ
+BFN,Buffalo Bisons,NY
+BFP,Buffalo Bisons,NY
+BR1,Brooklyn Eckfords,NY
+BR2,Brooklyn Atlantics,NY
+BR3,Brooklyn Atlantics,NY
+BR4,Brooklyn Gladiators,NY
+BRF,Brooklyn Tip-Tops,NY
+BRO,Brooklyn Bridegrooms,NY
+BRP,Brooklyn Ward's Wonders,NY
+BUF,Buffalo Buffeds,NY
+NY1,New York Gothams,NY
+NY2,New York Mutuals,NY
+NY3,New York Mutuals,NY
+NY4,New York Metropolitans,NY
+NYA,New York Highlanders,NY
+NYN,New York Mets,NY
+NYP,New York Giants,NY
+RC2,Rochester Broncos,NY
+SR1,Syracuse Stars,NY
+SR2,Syracuse Stars,NY
+TRN,Troy Trojans,NY
+TRO,Troy Haymakers,NY
+CIN,Cincinnati Reds,OH
+CL1,Cleveland Forest Citys,OH
+CL2,Cleveland Blues,OH
+CL3,Cleveland Blues,OH
+CL4,Cleveland Spiders,OH
+CL5,Columbus Buckeyes,OH
+CL6,Columbus Solons,OH
+CLE,Cleveland Blues,OH
+CLP,Cleveland Infants,OH
+CN1,Cincinnati Reds,OH
+CN2,Cincinnati Red Stockings,OH
+CN3,Cincinnati Kelly's Killers,OH
+CNU,Cincinnati Outlaw Reds,OH
+TL1,Toledo Blue Stockings,OH
+TL2,Toledo Maumees,OH
+ALT,Altoona Mountain City,PA
+PH1,Philadelphia Athletics,PA
+PH2,Philadelphia Whites,PA
+PH3,Philadelphia Centennials,PA
+PH4,Philadelphia Athletics,PA
+PHA,Philadelphia Athletics,PA
+PHI,Philadelphia Quakers,PA
+PHN,Philadelphia Athletics,PA
+PHP,Philadelphia Athletics,PA
+PHU,Philadelphia Keystones,PA
+PIT,Pittsburg Alleghenys,PA
+PT1,Pittsburg Alleghenys,PA
+PTF,Pittsburgh Rebels,PA
+PTP,Pittsburgh Burghers,PA
+PRO,Providence Grays,RI
+HOU,Houston Colt .45's,TX
+TEX,Texas Rangers,TX
+RIC,Richmond Virginians,VA
+SE1,Seattle Pilots,WA
+SEA,Seattle Mariners,WA
+WAS,Washington Senators,DC
+WS1,Washington Senators,DC
+WS2,Washington Senators,DC
+WS3,Washington Olympics,DC
+WS4,Washington Nationals,DC
+WS5,Washington Blue Legs,DC
+WS6,Washington Nationals,DC
+WS7,Washington Nationals,DC
+WS8,Washington Nationals,DC
+WS9,Washington Statesmen,DC
+WSU,Washington Nationals,DC
+MIL,Milwaukee Brewers,WI
+ML1,Milwaukee Braves,WI
+ML2,Milwaukee Grays,WI
+ML3,Milwaukee Brewers,WI
+ML4,Milwaukee Brewers,WI
+MLA,Milwaukee Brewers,WI
+MLU,Milwaukee Brewers,WI
